@@ -1,12 +1,11 @@
-numpy==1.15.4
-atari-py==0.1.6
-gym==0.10.9
-ptan==0.3
+numpy
+gym
+ptan
 opencv-python==3.4.3.18
 scipy==1.1.0
 torch==0.4.1
 torchvision==0.2.1
-tensorboardX==1.6
+tensorboardX
 tensorflow==1.12.2
 tensorboard==1.12.0
 pybullet==2.3.6
