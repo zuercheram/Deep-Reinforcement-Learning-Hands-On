@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import gym
+import gym_test
 import time
 import argparse
 import numpy as np

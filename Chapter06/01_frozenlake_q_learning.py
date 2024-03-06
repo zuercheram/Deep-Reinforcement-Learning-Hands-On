@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import gym
+import gym_test
 import collections
 from tensorboardX import SummaryWriter
 
